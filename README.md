@@ -2,6 +2,8 @@ markdown 강의
 ========
 markdown language study
 
+**************
+
 # Inline Code
 
 Python에서 `random` 패키지에서 `randint` 함수를 사용하세요.
@@ -21,6 +23,7 @@ int a = 1;
 float b = 2;
 double c = 3;
 ```
+-----------------------
 
 ## 차례
 1. [강조](#Emphasis)
