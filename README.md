@@ -66,7 +66,7 @@ double c = 3;
 
 ## 테이블
 
-|첫번째 열|두번째 열|세번쨰 열|네번째 열|
+|첫번째 열|두번째 열|세번째 열|네번째 열|
 |----------|:----------|:--------:|-----:| 
 |기본| 왼쪽정렬|아무거나|아무거나|
 |아무거나|아무거나|아무거나|아무거나|
@@ -94,14 +94,14 @@ double c = 3;
 
 
 ![로고]
-(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "구글 로고")
+("https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" "구글 로고")
 
 > 너 자실을 알라.  
 > 나도 모른다.
 >  - 소크라테스
 
 ![이미지가 없을때 나오는 텍스트]
-(https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png " 마우스를 위에 가져다 놓았을때 나오는 설명")
+("https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png " 마우스를 위에 가져다 놓았을때 나오는 설명")
 
 <img
 src = "https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width=100>
