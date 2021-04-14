@@ -1,6 +1,7 @@
-# markdown
+# markdown 강의
 markdown language study
 
+## 강조 방법
 이것은 한 *문장*입니다.  
 이것은 다음 문장입니다.
 
@@ -9,3 +10,5 @@ markdown language study
 
 이것은 또다른 ***문단***입니다.
 이 내용을 ~~취소~~해요.
+
+### 헤더
