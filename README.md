@@ -4,7 +4,7 @@ markdown language study
 
 # Inline Code
 
-Python에서 'random' 패키지에서 'randint' 함수를 사용하세요.
+Python에서 `random` 패키지에서 `randint` 함수를 사용하세요.
 
 # 코드
     def sum(a,b):
