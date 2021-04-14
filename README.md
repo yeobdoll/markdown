@@ -1,5 +1,5 @@
 # markdown 강의
-===========
+-------------
 markdown language study
 
 ## 강조 방법
