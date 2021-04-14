@@ -2,6 +2,12 @@ markdown 강의
 ========
 markdown language study
 
+# 코드
+    def sum(a,b):
+        return a + b
+
+
+
 ## 차례
 1. [강조](#Emphasis)
 2. [리스트](#Lists)
