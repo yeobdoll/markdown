@@ -59,5 +59,5 @@ markdown language study
 
 
 ![로고]
-(https://user-images.githubusercontent.com/74964580/114656520-37c7e800-9d29-11eb-80dc-74cc94e0c457.png "꽃 로고")
+(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "꽃 로고")
 
