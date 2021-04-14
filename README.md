@@ -6,7 +6,17 @@ markdown language study
     def sum(a,b):
         return a + b
 
+# Python Code
+```python
+name = 'World'
+print(name)
+```
 
+```java
+int a = 1;
+float b = 2;
+double c = 3;
+```
 
 ## 차례
 1. [강조](#Emphasis)
