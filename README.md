@@ -93,8 +93,7 @@ double c = 3;
 강조를 사용하려면 [Emphasis 섹션](#Emphasis-Is-Here)을 참고해주세요
 
 
-![로고]
-(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "구글 로고")
+![로고](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "구글 로고")
 
 > 너 자실을 알라.  
 > 나도 모른다.
