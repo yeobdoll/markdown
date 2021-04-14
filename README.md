@@ -61,7 +61,7 @@ markdown language study
 ![로고]
 (https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "구글 로고")
 
-> 너 자실을 알라.
+> 너 자실을 알라.  
 > 나도 모른다.
 >  - 소크라테스
 
