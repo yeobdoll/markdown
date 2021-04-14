@@ -87,8 +87,8 @@ double c = 3;
 구글 홈페이지 = https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjAp5iB8_zvAhV8w4sBHcccDn0QPAgI 입니다.  
 구글 홈페이지 = <https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjAp5iB8_zvAhV8w4sBHcccDn0QPAgI> 입니다.  
 
-[]: https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjAp5iB8_zvAhV8w4sBHcccDn0QPAgI
-[]: https://www.naver.com/
+[구글]: https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjAp5iB8_zvAhV8w4sBHcccDn0QPAgI
+[네이버]: https://www.naver.com/
 
 강조를 사용하려면 [Emphasis 섹션](#Emphasis-Is-Here)을 참고해주세요
 
