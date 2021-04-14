@@ -102,6 +102,6 @@ double c = 3;
 ![이미지가 없을때 나오는 텍스트](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "마우스를 위에 가져다 놓았을때 나오는 설명")
 
 <img
-src = "https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width=100> "ㅎㅇ"
+src = "https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width=100 "ㅎㅇ"> 
 </img>
 
