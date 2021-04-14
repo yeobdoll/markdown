@@ -33,9 +33,13 @@ markdown language study
 
 | 첫번째 열 | 두번째 열 | 세번쨰 열 | 네번째 열 |
 | ---------- || :---------- || :--------: || -----: |
+| 기본 | 왼쪽정렬 | 아무거나 | 아무거나 |
 | 아무거나 | 아무거나 | 아무거나 | 아무거나 |
 
 # 링크
 구글로 가고 싶으면 [이것]을(https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjAp5iB8_zvAhV8w4sBHcccDn0QPAgI)을 클릭하세요.
 구글로 가고 싶으면 [이것]을(https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjAp5iB8_zvAhV8w4sBHcccDn0QPAgI"구글 홈페이지")을 클릭하세요.
 라이선스를 보고 싶으면 [이것]을(./LICENSE)을 클릭하세요.
+구글로 가고 싶으면 [이것]을[구글]을 클릭하세요.
+
+[구글]: https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjAp5iB8_zvAhV8w4sBHcccDn0QPAgI
