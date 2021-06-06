@@ -33,7 +33,7 @@ double c = 3;
 ## 차례
 1. [강조](#Emphasis)
 2. [리스트](#Lists)
-   1. [숫자 없는 리스트]()
+   1. 숫자 없는 리스트
 
 ## Emphasis Is Here
 
